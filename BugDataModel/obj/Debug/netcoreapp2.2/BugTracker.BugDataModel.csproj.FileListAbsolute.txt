@@ -1,0 +1,8 @@
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugDataModel\obj\Debug\netcoreapp2.2\BugTracker.BugDataModel.AssemblyInfoInputs.cache
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugDataModel\obj\Debug\netcoreapp2.2\BugTracker.BugDataModel.AssemblyInfo.cs
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugDataModel\bin\Debug\netcoreapp2.2\BugTracker.BugDataModel.deps.json
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugDataModel\bin\Debug\netcoreapp2.2\BugTracker.BugDataModel.dll
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugDataModel\bin\Debug\netcoreapp2.2\BugTracker.BugDataModel.pdb
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugDataModel\obj\Debug\netcoreapp2.2\BugTracker.BugDataModel.dll
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugDataModel\obj\Debug\netcoreapp2.2\BugTracker.BugDataModel.pdb
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugDataModel\obj\Debug\netcoreapp2.2\BugTracker.BugDataModel.csprojAssemblyReference.cache

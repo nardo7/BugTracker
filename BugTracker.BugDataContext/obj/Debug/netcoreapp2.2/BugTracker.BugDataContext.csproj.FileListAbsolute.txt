@@ -1,0 +1,13 @@
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\bin\Debug\netcoreapp2.2\BugTracker.BugDataContext.deps.json
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\bin\Debug\netcoreapp2.2\BugTracker.BugDataContext.dll
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\bin\Debug\netcoreapp2.2\BugTracker.BugDataContext.pdb
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\obj\Debug\netcoreapp2.2\BugTracker.BugDataContext.AssemblyInfoInputs.cache
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\obj\Debug\netcoreapp2.2\BugTracker.BugDataContext.AssemblyInfo.cs
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\obj\Debug\netcoreapp2.2\BugTracker.BugDataContext.dll
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\obj\Debug\netcoreapp2.2\BugTracker.BugDataContext.pdb
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\bin\Debug\netcoreapp2.2\BugTracker.BugDataModel.dll
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\bin\Debug\netcoreapp2.2\BugTracker.BugDataModel.pdb
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\obj\Debug\netcoreapp2.2\BugTracker.BugDataContext.csprojAssemblyReference.cache
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\obj\Debug\netcoreapp2.2\BugTracker.BugDataContext.csproj.CopyComplete
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\bin\Debug\netcoreapp2.2\BugTracker.BugDataContext.runtimeconfig.json
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.BugDataContext\bin\Debug\netcoreapp2.2\BugTracker.BugDataContext.runtimeconfig.dev.json

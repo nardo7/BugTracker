@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>BugTracker.BugDataModel</AssemblyName>
+    <RootNamespace>BugTracker.BugDataModel</RootNamespace>
+  </PropertyGroup>
+
+</Project>
