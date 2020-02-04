@@ -78,7 +78,7 @@ namespace BugTracker.WebServer.Controllers
         public async Task<ActionResult<Priority>> PostPriority(Priority priority)
         {
             _context.Priorities.Add(priority);
-            //await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
 
             return CreatedAtAction("GetPriority", new { id = priority.Id }, priority);
         }
