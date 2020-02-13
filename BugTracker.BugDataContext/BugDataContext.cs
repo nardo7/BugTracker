@@ -10,6 +10,9 @@ namespace BugTracker.BugDataContext
 
         public DbSet<Priority> Priorities { get; set; }
 
+        public DbSet<State> States { get; set; }
+
+
         public BugContext(DbContextOptions options) : base(options)
         {
 

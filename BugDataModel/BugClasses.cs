@@ -17,15 +17,29 @@ namespace BugTracker.BugDataModel
         public string ErroneousBehavior { get; set; }
 
         [Display(Name = "How to reproduce")]
-
         public string HowToReproduce { get; set; }
+
+        [Display(Name = "Worked Time", AutoGenerateField = false)]
+        [Required]
+        public DateTime WorkedTime { get; set; }
+
 
         [Required]
         public int priorityId { get; set; }
 
+        public State state { get; set; }
+
         public Priority Priority { get; set; }
 
 
+
+    }
+
+    public class State
+    {
+        public int Id { get; set; }
+
+        public string Name { get; set; }
 
     }
 
@@ -42,4 +56,6 @@ namespace BugTracker.BugDataModel
 
         public ICollection<Bug> Bugs { get; set; }
     }
+
+    
 }

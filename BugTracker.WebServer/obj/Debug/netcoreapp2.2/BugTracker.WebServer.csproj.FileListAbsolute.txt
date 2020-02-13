@@ -19,3 +19,17 @@ C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\bin\De
 C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\BugTracker.WebServer.csproj.CopyComplete
 C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\BugTracker.WebServer.dll
 C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\BugTracker.WebServer.pdb
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\bin\Debug\netcoreapp2.2\BugTracker.WebServer.Views.dll
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\bin\Debug\netcoreapp2.2\BugTracker.WebServer.Views.pdb
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\BugTracker.WebServer.TagHelpers.input.cache
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\BugTracker.WebServer.TagHelpers.output.cache
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\BugTracker.WebServer.RazorCoreGenerate.cache
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\Razor\Views\States\Create.cshtml.g.cs
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\Razor\Views\States\Delete.cshtml.g.cs
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\Razor\Views\States\Details.cshtml.g.cs
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\Razor\Views\States\Edit.cshtml.g.cs
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\Razor\Views\States\Index.cshtml.g.cs
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\BugTracker.WebServer.RazorTargetAssemblyInfo.cs
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\BugTracker.WebServer.Views.pdb
+C:\Users\aleja\programming\Angular ASP.NET CORE\quiz\BugTracker.WebServer\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
